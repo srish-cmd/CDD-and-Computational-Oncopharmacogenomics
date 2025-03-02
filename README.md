@@ -1,4 +1,4 @@
-# 🧪 Computational Drug Discovery (CDD)
+# 🧪 Research in Computational Onco-Pharmacogenomics & Computational Drug Discovery (CDD)
 
 ## 🔬 Overview
 Computational Drug Discovery (CDD) leverages machine learning, cheminformatics, and bioinformatics to identify potential drug candidates efficiently. This project, builds predictive models for drug-target interactions, molecular property prediction, and virtual screening to accelerate drug discovery.

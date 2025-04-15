@@ -12,7 +12,7 @@ Computational Drug Discovery (CDD) leverages machine learning, cheminformatics, 
 
 ## 🛠 Tech Stack
 - **Programming Language**: 🐍 Python
-- **Libraries & Frameworks**: RDKit, DeepChem, PyTorch/TensorFlow, Scikit-learn, Pandas, NumPy
+- **Libraries & Frameworks**: RDKit, DeepChem, PyTorch, Scikit-learn, Pandas, NumPy
 - **Data Sources**: 📚 ChEMBL, PubChem
 - **Visualization**: 📊 Matplotlib, Seaborn
 
